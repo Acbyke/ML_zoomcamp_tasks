@@ -1,5 +1,6 @@
 # ML_zoomcamp_tasks
 
-Hello world
+Solving ML challenges can be worthwhile
+
 
 
